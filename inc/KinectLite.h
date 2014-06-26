@@ -12,6 +12,7 @@
 #include <libusb-1.0/libusb.h>
 
 #include <thread>
+#include <mutex>
 
 #include <vector>
 #include <array>
